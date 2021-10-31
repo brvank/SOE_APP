@@ -1,0 +1,6 @@
+.group{
+    background-color: antiquewhite;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
